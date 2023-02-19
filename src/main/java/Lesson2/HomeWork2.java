@@ -22,7 +22,6 @@ public class HomeWork2 {
         for (int i = 1; i <= n; i++) {
             System.out.println("[" + i + "]" + " " + str);}
     }
-
 }
 
 
